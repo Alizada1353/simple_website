@@ -1,0 +1,22 @@
+{
+  "name": "simple_website",
+  "version": "1.0.0",
+  "description": "The simple website is built using nodejs and express just for the purpose of practicing web-devlopment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alizada1353/simple_website.git"
+  },
+  "author": "alizada1353",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alizada1353/simple_website/issues"
+  },
+  "homepage": "https://github.com/Alizada1353/simple_website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
